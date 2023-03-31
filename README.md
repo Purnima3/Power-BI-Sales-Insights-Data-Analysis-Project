@@ -1,17 +1,21 @@
 # Power_BI_Sales_Insights-Data_Analysis_Project
 This is a beginner-level project that provides hands-on experience with Power BI, a popular business intelligence and data visualization tool. The project focuses on analyzing sales data to provide insights and inform business decisions.
 
-<b>Project Goals</b>
+<b>PURPOSE</b>
+To unlock sales insights that are not visible before sales team for decision support and automate them to reduce manual time spend in data gathering.
 
-The goals of this project include:
 
-1. Learning how to connect to and import data into Power BI
-2. Creating and customizing visualizations to showcase insights
-3. Developing a dashboard that provides an overview of sales performance
-4. Analyzing trends and identifying areas for improvement
-5. Providing actionable recommendations for the business based on the data analysis
-   Dataset
-6. The project uses a sample dataset of sales data from a fictional company. The dataset includes information on product sales, customer demographics, and order details. 
+<b>Stakeholders</b>(Assumptions)
+1. Sales Director
+2. Marketing Team 
+3. Customer Service Team 
+4. Data and Analysis Team 
+5. IT Department
+
+<b>End Result</b>
+An Automated dashboard providing Quick and latest sales insights in order to support data driven decisions making.
+
+
 
 
 
