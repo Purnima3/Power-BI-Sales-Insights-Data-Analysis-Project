@@ -9,7 +9,12 @@
   4. Developing Model
   5. Creating Dashboard
 
+Data set:
 
 
 
+
+Finished Dashboard
+
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/96184253/229685546-b5e1fb62-b594-45b4-9bf6-31929b832fde.png">
 
